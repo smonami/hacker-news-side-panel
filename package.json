@@ -1,0 +1,24 @@
+{
+  "name": "hacker-news-side-panel",
+  "main": "./lib/hacker-news-side-panel",
+  "version": "1.0.0",
+  "description": "A side pannel filled with top 15 hacker-news links",
+  "keywords": [
+    "hacker-news",
+    "hn",
+    "news",
+    "ycombinator"
+  ],
+  "activationCommands": {
+    "atom-workspace": "hacker-news-side-panel:toggle"
+  },
+  "repository": "https://github.com/atom/hacker-news-side-panel",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "properties-reader": "0.0.15",
+    "request": "2.72.0"
+  }
+}

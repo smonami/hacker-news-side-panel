@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hacker-news-side-panel",
+        "command": "hacker-news-side-panel:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hacker-news-side-panel",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hacker-news-side-panel:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
