@@ -1,5 +1,7 @@
 # hacker-news-side-panel package
 
-A short description of your package.
+Side panel for Atom, filled with top 15 hacker-news links!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Activate/Deactivate key: ctrl-alt-n
+
+Set https-proxy or http-proxy in .apmrc to make it work behind proxy.
