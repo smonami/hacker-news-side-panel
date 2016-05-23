@@ -1,7 +1,7 @@
 {
   "name": "hacker-news-side-panel",
   "main": "./lib/hacker-news-side-panel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A side pannel filled with top 15 hacker-news links",
   "keywords": [
     "hacker-news",
